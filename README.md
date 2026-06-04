@@ -362,8 +362,8 @@ MIT License - Xây dựng cho bài tập lớp
   </thead>
   <tbody>
     <tr>
-      <td>Developer Name</td>
-      <td>1571020XXX</td>
+      <td>Ngô Tuấn Minh</td>
+      <td>1571020175</td>
       <td>Phát triển dự án</td>
     </tr>
   </tbody>

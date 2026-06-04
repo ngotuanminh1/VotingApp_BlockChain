@@ -1,0 +1,553 @@
+{
+  "transactions": [
+    {
+      "txHash": "0x39e183e67d439fdbf9fbdf2ca882966e7b50ab3bdc8c11bb5a2a58a24cc18ce3",
+      "txType": "vote",
+      "userAddress": "0xe8952370E3b138FBFBd93fc9A414D1F1186D9F48",
+      "timestamp": "2026-05-18T05:55:39.379Z",
+      "blockNumber": 15,
+      "gasUsed": "55234",
+      "encodedData": "0x0121b93f0000000000000000000000000000000000000000000000000000000000000003",
+      "details": {
+        "candidateId": "3"
+      }
+    },
+    {
+      "txHash": "pending_1779084528125",
+      "txType": "addPosition",
+      "userAddress": "0x1c7A0c334fc247823258A140FC74cBFB2518E36a",
+      "timestamp": "2026-05-18T06:08:48.125Z",
+      "blockNumber": null,
+      "gasUsed": null,
+      "encodedData": null,
+      "details": {
+        "positionName": "Bí Thư"
+      }
+    },
+    {
+      "txHash": "pending_1779084552657",
+      "txType": "addPosition",
+      "userAddress": "0x1c7A0c334fc247823258A140FC74cBFB2518E36a",
+      "timestamp": "2026-05-18T06:09:12.657Z",
+      "blockNumber": null,
+      "gasUsed": null,
+      "encodedData": null,
+      "details": {
+        "positionName": "Bí thjuw"
+      }
+    },
+    {
+      "txHash": "pending_1779084683803",
+      "txType": "addPosition",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:11:23.804Z",
+      "blockNumber": null,
+      "gasUsed": null,
+      "encodedData": null,
+      "details": {
+        "positionName": "Bí Thư"
+      }
+    },
+    {
+      "txHash": "pending_1779084684887",
+      "txType": "addPosition",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:11:24.887Z",
+      "blockNumber": null,
+      "gasUsed": null,
+      "encodedData": null,
+      "details": {
+        "positionName": "Bí Thư"
+      }
+    },
+    {
+      "txHash": "pending_1779084685067",
+      "txType": "addPosition",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:11:25.067Z",
+      "blockNumber": null,
+      "gasUsed": null,
+      "encodedData": null,
+      "details": {
+        "positionName": "Bí Thư"
+      }
+    },
+    {
+      "txHash": "pending_1779084685235",
+      "txType": "addPosition",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:11:25.235Z",
+      "blockNumber": null,
+      "gasUsed": null,
+      "encodedData": null,
+      "details": {
+        "positionName": "Bí Thư"
+      }
+    },
+    {
+      "txHash": "pending_1779084685410",
+      "txType": "addPosition",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:11:25.410Z",
+      "blockNumber": null,
+      "gasUsed": null,
+      "encodedData": null,
+      "details": {
+        "positionName": "Bí Thư"
+      }
+    },
+    {
+      "txHash": "0x67a9340aec0fe6aadf8e5e6fce17896ed7f21745035c77db39c1b2fd6ef32b55",
+      "txType": "addPosition",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:13:42.998Z",
+      "blockNumber": 5,
+      "gasUsed": "97194",
+      "encodedData": "0xfb9b4cba0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000842c3ad207468c6b0000000000000000000000000000000000000000000000000",
+      "details": {
+        "positionName": "Bí thư"
+      }
+    },
+    {
+      "txHash": "0x930282d8bc427d619de59297bf2595f3027ce809ad03329ac15f76f9ec55cfb1",
+      "txType": "addCandidate",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:13:59.714Z",
+      "blockNumber": 6,
+      "gasUsed": "144285",
+      "encodedData": "0x1750a3d000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000000d4e676f205475616e204d696e6800000000000000000000000000000000000000",
+      "details": {
+        "positionId": "1",
+        "candidateName": "Ngo Tuan Minh"
+      }
+    },
+    {
+      "txHash": "0x64c1b6e4936fb227c562116d17f71db62791c7910d0f6a6f23de12ca97be1664",
+      "txType": "addCandidate",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:14:15.985Z",
+      "blockNumber": 7,
+      "gasUsed": "110073",
+      "encodedData": "0x1750a3d000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000000c4e677579656e2056616e20420000000000000000000000000000000000000000",
+      "details": {
+        "positionId": "1",
+        "candidateName": "Nguyen Van B"
+      }
+    },
+    {
+      "txHash": "0x467c931a79bf705ccc333f7547b20fe87b8b5c78a61b4ae1e36d970697ef6f89",
+      "txType": "startVoting",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:14:30.272Z",
+      "blockNumber": 8,
+      "gasUsed": "27566",
+      "encodedData": "0x1ec6b60a",
+      "details": {
+        "action": "start_voting"
+      }
+    },
+    {
+      "txHash": "0x5234529d4c7cdaf3344a3b194f032114fc5b5531a9fc136e3b5a387628515f7b",
+      "txType": "endVoting",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:14:45.103Z",
+      "blockNumber": 9,
+      "gasUsed": "27516",
+      "encodedData": "0xc3403ddf",
+      "details": {
+        "action": "end_voting"
+      }
+    },
+    {
+      "txHash": "0x0b9160b305a7eb586c3a879f9f0d0047db691e7d85a08c97d969bdd1b11ea5a7",
+      "txType": "addCandidate",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:14:59.643Z",
+      "blockNumber": 10,
+      "gasUsed": "110037",
+      "encodedData": "0x1750a3d00000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000094e676f2056616e20410000000000000000000000000000000000000000000000",
+      "details": {
+        "positionId": "1",
+        "candidateName": "Ngo Van A"
+      }
+    },
+    {
+      "txHash": "0x59f8138fe1c0633ed62f6d66110302ae96df107721f143ecab29aa1c20f5e998",
+      "txType": "addPosition",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:15:07.627Z",
+      "blockNumber": 11,
+      "gasUsed": "80094",
+      "encodedData": "0xfb9b4cba000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000085468c6b0204bc3bd000000000000000000000000000000000000000000000000",
+      "details": {
+        "positionName": "Thư Ký"
+      }
+    },
+    {
+      "txHash": "0xa8e2fca9208494b61cdafec2db7570607738427ceac03485a27bb352457f9c16",
+      "txType": "addCandidate",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:15:16.483Z",
+      "blockNumber": 12,
+      "gasUsed": "144237",
+      "encodedData": "0x1750a3d00000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000094e676f2056616e20420000000000000000000000000000000000000000000000",
+      "details": {
+        "positionId": "2",
+        "candidateName": "Ngo Van B"
+      }
+    },
+    {
+      "txHash": "0x0fa07a17138ccbd7bc9158bb7178daf18c720fbabec1a6cfa84293fc5442c21a",
+      "txType": "startVoting",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:15:24.069Z",
+      "blockNumber": 13,
+      "gasUsed": "27566",
+      "encodedData": "0x1ec6b60a",
+      "details": {
+        "action": "start_voting"
+      }
+    },
+    {
+      "txHash": "0x6474461f31f7889c596fd28ffa551162fe4660782f69f0209532386b8fdc683b",
+      "txType": "vote",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:15:36.298Z",
+      "blockNumber": 14,
+      "gasUsed": "75504",
+      "encodedData": "0xb384abef00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000001",
+      "details": {
+        "positionId": "1",
+        "candidateId": "1"
+      }
+    },
+    {
+      "txHash": "0xe8e54aa9acf6b771b4c9ac0e310a1762afa744ec85097e87c979ffb4e75ee803",
+      "txType": "vote",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:15:41.824Z",
+      "blockNumber": 15,
+      "gasUsed": "75504",
+      "encodedData": "0xb384abef00000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001",
+      "details": {
+        "positionId": "2",
+        "candidateId": "1"
+      }
+    },
+    {
+      "txHash": "0xa6ca1ea4bc49771d144f7361d74c18cafabe19fc0032eceb3552604b93a6d24f",
+      "txType": "endVoting",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:16:16.541Z",
+      "blockNumber": 16,
+      "gasUsed": "27516",
+      "encodedData": "0xc3403ddf",
+      "details": {
+        "action": "end_voting"
+      }
+    },
+    {
+      "txHash": "0x0fbaa0ec312f9523efa67109f67095828df457c9861b5451fa8012a1b233b1ed",
+      "txType": "addCandidate",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:32:59.705Z",
+      "blockNumber": 17,
+      "gasUsed": "110073",
+      "encodedData": "0x1750a3d000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000000c4e677579656e2056616e20410000000000000000000000000000000000000000",
+      "details": {
+        "positionId": "1",
+        "candidateName": "Nguyen Van A"
+      }
+    },
+    {
+      "txHash": "0x0e3046f8cb6e49f6ab60e691d8ca41ffa0608528a80bf67017090d1611cef8e3",
+      "txType": "addCandidate",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:33:07.630Z",
+      "blockNumber": 18,
+      "gasUsed": "110073",
+      "encodedData": "0x1750a3d000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000000c4e677579656e2056616e20420000000000000000000000000000000000000000",
+      "details": {
+        "positionId": "1",
+        "candidateName": "Nguyen Van B"
+      }
+    },
+    {
+      "txHash": "0xf5a8aa75155431c032eeb624997df40d96a9782bca8a808cc60eb75acd751a87",
+      "txType": "addCandidate",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:33:16.914Z",
+      "blockNumber": 19,
+      "gasUsed": "110037",
+      "encodedData": "0x1750a3d00000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000094e676f2056616e20410000000000000000000000000000000000000000000000",
+      "details": {
+        "positionId": "2",
+        "candidateName": "Ngo Van A"
+      }
+    },
+    {
+      "txHash": "0xfc26cd5087f914e83c41c760888c693d777b744462e0d8f137dd6c17e6d0cfd2",
+      "txType": "addCandidate",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:33:22.646Z",
+      "blockNumber": 20,
+      "gasUsed": "110037",
+      "encodedData": "0x1750a3d00000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000094e676f2056616e20420000000000000000000000000000000000000000000000",
+      "details": {
+        "positionId": "2",
+        "candidateName": "Ngo Van B"
+      }
+    },
+    {
+      "txHash": "0x96d2fa051a758508c78a5de6c409b4e4b47ca0d92c73b96376c72488cd5a0340",
+      "txType": "startVoting",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:33:27.131Z",
+      "blockNumber": 21,
+      "gasUsed": "27566",
+      "encodedData": "0x1ec6b60a",
+      "details": {
+        "action": "start_voting"
+      }
+    },
+    {
+      "txHash": "0x7373f5f8581211a6e9cd8432ae7cb28b7c86c63c7778b65e6ee02bcb332c2082",
+      "txType": "addPosition",
+      "userAddress": "0x613231d871e05d3A852865f43522750B64e13F91",
+      "timestamp": "2026-05-18T06:37:28.721Z",
+      "blockNumber": 3,
+      "gasUsed": "97194",
+      "encodedData": "0xfb9b4cba0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000842c3ad205468c6b0000000000000000000000000000000000000000000000000",
+      "details": {
+        "positionName": "Bí Thư"
+      }
+    },
+    {
+      "txHash": "0x395d1109ee4553818b6041545c59b564f089b00a03173008da52d2e6a512360f",
+      "txType": "addPosition",
+      "userAddress": "0x613231d871e05d3A852865f43522750B64e13F91",
+      "timestamp": "2026-05-18T06:37:35.625Z",
+      "blockNumber": 4,
+      "gasUsed": "80094",
+      "encodedData": "0xfb9b4cba000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000085468c6b0204bc3bd000000000000000000000000000000000000000000000000",
+      "details": {
+        "positionName": "Thư Ký"
+      }
+    },
+    {
+      "txHash": "0x12ba40fa9d8eb811340873cf68819ddb420404381c404881b96dee9a11b572b6",
+      "txType": "addCandidate",
+      "userAddress": "0x613231d871e05d3A852865f43522750B64e13F91",
+      "timestamp": "2026-05-18T06:37:43.257Z",
+      "blockNumber": 5,
+      "gasUsed": "144273",
+      "encodedData": "0x1750a3d000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000000c4e677579656e2056616e20410000000000000000000000000000000000000000",
+      "details": {
+        "positionId": "1",
+        "candidateName": "Nguyen Van A"
+      }
+    },
+    {
+      "txHash": "0x7072760c6ccee9c4336312d728c929f12996ed2034530a0c871f039c57bb8b3b",
+      "txType": "addCandidate",
+      "userAddress": "0x613231d871e05d3A852865f43522750B64e13F91",
+      "timestamp": "2026-05-18T06:37:49.328Z",
+      "blockNumber": 6,
+      "gasUsed": "110073",
+      "encodedData": "0x1750a3d000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000000c4e677579656e2056616e20420000000000000000000000000000000000000000",
+      "details": {
+        "positionId": "1",
+        "candidateName": "Nguyen Van B"
+      }
+    },
+    {
+      "txHash": "0x6c9390c9b818d96fdc3b61d9fb7adacb5799530e3d3d378e339e8b76434572cd",
+      "txType": "addCandidate",
+      "userAddress": "0x613231d871e05d3A852865f43522750B64e13F91",
+      "timestamp": "2026-05-18T06:37:56.751Z",
+      "blockNumber": 7,
+      "gasUsed": "144237",
+      "encodedData": "0x1750a3d00000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000094e676f2056616e20410000000000000000000000000000000000000000000000",
+      "details": {
+        "positionId": "2",
+        "candidateName": "Ngo Van A"
+      }
+    },
+    {
+      "txHash": "0x2c7a941758de9439883969bd95fea206ff4a0c7f4302dfaf953753866e3f51f1",
+      "txType": "addCandidate",
+      "userAddress": "0x613231d871e05d3A852865f43522750B64e13F91",
+      "timestamp": "2026-05-18T06:38:03.356Z",
+      "blockNumber": 8,
+      "gasUsed": "110037",
+      "encodedData": "0x1750a3d00000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000094e676f2056616e20420000000000000000000000000000000000000000000000",
+      "details": {
+        "positionId": "2",
+        "candidateName": "Ngo Van B"
+      }
+    },
+    {
+      "txHash": "0x8a140b19b13be72345721136a215bbeede33731f7f56f2b71f0007e209913f58",
+      "txType": "startVoting",
+      "userAddress": "0x613231d871e05d3A852865f43522750B64e13F91",
+      "timestamp": "2026-05-18T06:38:09.174Z",
+      "blockNumber": 9,
+      "gasUsed": "27566",
+      "encodedData": "0x1ec6b60a",
+      "details": {
+        "action": "start_voting"
+      }
+    },
+    {
+      "txHash": "0x4e4c361b26a988ccd28020b002da336065cc7a498990274d9e09582683c0fd54",
+      "txType": "vote",
+      "userAddress": "0x613231d871e05d3A852865f43522750B64e13F91",
+      "timestamp": "2026-05-18T06:38:14.915Z",
+      "blockNumber": 10,
+      "gasUsed": "75504",
+      "encodedData": "0xb384abef00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000001",
+      "details": {
+        "positionId": "1",
+        "candidateId": "1"
+      }
+    },
+    {
+      "txHash": "0xc4a490080aca0a6cb7c428f3831421322e3d6e6bedd07d475203127c5eb821b4",
+      "txType": "vote",
+      "userAddress": "0x613231d871e05d3A852865f43522750B64e13F91",
+      "timestamp": "2026-05-18T06:38:19.401Z",
+      "blockNumber": 11,
+      "gasUsed": "75504",
+      "encodedData": "0xb384abef00000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001",
+      "details": {
+        "positionId": "2",
+        "candidateId": "1"
+      }
+    },
+    {
+      "txHash": "pending_1779086319695",
+      "txType": "vote",
+      "userAddress": "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "timestamp": "2026-05-18T06:38:39.695Z",
+      "blockNumber": null,
+      "gasUsed": null,
+      "encodedData": null,
+      "details": {
+        "positionId": "1",
+        "candidateId": "1"
+      }
+    },
+    {
+      "txHash": "0xe2c921a747073cf7072f2734e23cb02f53bcd0f9d212da6c0ecb082c95687571",
+      "txType": "vote",
+      "userAddress": "0xcb11ce71debC3615420b18601E79eAc8D24e3dd3",
+      "timestamp": "2026-05-18T06:39:00.598Z",
+      "blockNumber": 12,
+      "gasUsed": "58404",
+      "encodedData": "0xb384abef00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000001",
+      "details": {
+        "positionId": "1",
+        "candidateId": "1"
+      }
+    },
+    {
+      "txHash": "0x75345a30b1b58767aed72db96ffed4a9c5dc8866c21281dfdf562325971c5fbc",
+      "txType": "vote",
+      "userAddress": "0xcb11ce71debC3615420b18601E79eAc8D24e3dd3",
+      "timestamp": "2026-05-18T06:39:06.587Z",
+      "blockNumber": 13,
+      "gasUsed": "58404",
+      "encodedData": "0xb384abef00000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001",
+      "details": {
+        "positionId": "2",
+        "candidateId": "1"
+      }
+    },
+    {
+      "txHash": "0x68d03b4854c9eaab56e95712c422b43380f2817f297fec5f90c95946ce83b5cc",
+      "txType": "endVoting",
+      "userAddress": "0x613231d871e05d3A852865f43522750B64e13F91",
+      "timestamp": "2026-05-18T06:39:24.127Z",
+      "blockNumber": 14,
+      "gasUsed": "27516",
+      "encodedData": "0xc3403ddf",
+      "details": {
+        "action": "end_voting"
+      }
+    },
+    {
+      "txHash": "0x1337b49b3aa61cc7876837466b891284aee25562eb5868aa44e44dab2f9caaab",
+      "txType": "startVoting",
+      "userAddress": "0x613231d871e05d3A852865f43522750B64e13F91",
+      "timestamp": "2026-05-18T06:59:24.985Z",
+      "blockNumber": 15,
+      "gasUsed": "27566",
+      "encodedData": "0x1ec6b60a",
+      "details": {
+        "action": "start_voting"
+      }
+    },
+    {
+      "txHash": "0xf2d2169b9158da88f798473a832b82e109e10e0693b086e9660d6a1a883c85c8",
+      "txType": "vote",
+      "userAddress": "0x9728c32403C38F8881eEeE2a433BDEa8Ce11B937",
+      "timestamp": "2026-05-18T07:00:38.592Z",
+      "blockNumber": 16,
+      "gasUsed": "58404",
+      "encodedData": "0xb384abef00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000001",
+      "details": {
+        "positionId": "1",
+        "candidateId": "1"
+      }
+    },
+    {
+      "txHash": "0xa0d48e1254b505ffa35de142331ed9294fc818ce56f3cd3ebc24f6901ee929d1",
+      "txType": "vote",
+      "userAddress": "0x9728c32403C38F8881eEeE2a433BDEa8Ce11B937",
+      "timestamp": "2026-05-18T07:00:43.511Z",
+      "blockNumber": 17,
+      "gasUsed": "75504",
+      "encodedData": "0xb384abef00000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000002",
+      "details": {
+        "positionId": "2",
+        "candidateId": "2"
+      }
+    },
+    {
+      "txHash": "0x88600ce87d626c39900472f169c9c2c4d3a0f3e5ef85b551f60fd3a30f06094d",
+      "txType": "endVoting",
+      "userAddress": "0x613231d871e05d3A852865f43522750B64e13F91",
+      "timestamp": "2026-05-18T07:00:55.646Z",
+      "blockNumber": 18,
+      "gasUsed": "27516",
+      "encodedData": "0xc3403ddf",
+      "details": {
+        "action": "end_voting"
+      }
+    },
+    {
+      "txHash": "pending_1779088234981",
+      "txType": "startVoting",
+      "userAddress": "0x613231d871e05d3A852865f43522750B64e13F91",
+      "timestamp": "2026-05-18T07:10:34.981Z",
+      "blockNumber": null,
+      "gasUsed": null,
+      "encodedData": null,
+      "details": {
+        "action": "start_voting"
+      }
+    }
+  ],
+  "statistics": {
+    "totalVotes": 10,
+    "totalCandidates": 12,
+    "uniqueVoters": [
+      "0xe8952370E3b138FBFBd93fc9A414D1F1186D9F48",
+      "0xBbaff2E9D780bc067E552c74CfACe3A56B6c6B5A",
+      "0x613231d871e05d3A852865f43522750B64e13F91",
+      "0xcb11ce71debC3615420b18601E79eAc8D24e3dd3",
+      "0x9728c32403C38F8881eEeE2a433BDEa8Ce11B937"
+    ]
+  },
+  "lastUpdated": "2026-05-18T07:10:34.981Z"
+}
