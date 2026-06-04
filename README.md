@@ -2,7 +2,7 @@
 🗳️ Hệ Thống Bỏ Phiếu Điện Tử Phi Tập Trung (Voting DApp)
 </h1>
 <div align="center">
-  <img src="Posterns11.png" alt="Poster" width="250">
+  <img src="Posterns11.png" alt="Poster" width="780">
 </div>
 <br>
 <div align="center">
